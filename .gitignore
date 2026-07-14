@@ -16,12 +16,11 @@ node_modules/
 jspm_packages/
 
 # Environment variables
-.env
 
 # Build output
 dist/
 build/
 
 # IDE files
-.vscode/
 .DS_Store
+config.bat
